@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]([https://your-solution-url.com](https://github.com/Maisaa66/Front-End-Mentor-Results-summary-component-solution))
-- Live Site URL: [Live site]([https://your-live-site-url.com](https://maisaa66.github.io/Front-End-Mentor-Results-summary-component-solution/))
+- Solution URL: [Solution](https://github.com/Maisaa66/Front-End-Mentor-Results-summary-component-solution)
+- Live Site URL: [Live site](https://maisaa66.github.io/Front-End-Mentor-Results-summary-component-solution/)
 
 ## My process
 
