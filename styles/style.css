@@ -1,0 +1,143 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+  @media screen and (max-width:375px) {
+    #result-card{
+        margin-top: 30px;
+
+    }
+  }
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    font-family: 'Hanken Grotesk', sans-serif;}
+
+
+.container{
+    margin: 0;
+    padding: 0;
+    max-width: 600px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 25px hsl(224, 30%, 27%, 0.2);
+    /* min-height: 53vh; */
+    
+}
+#result-card{
+    background: linear-gradient(180deg, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
+    border-radius: 25px;
+    text-align: center;
+    padding: 34px 55px;
+    
+}
+
+
+
+#txt>h1{
+font-size: 18px;
+color: hsl(241, 100%, 89%);
+font-weight: 800;
+
+}
+
+#circle{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, hsla(252, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%);
+}
+
+#primary-num{
+    font-size: 3rem;
+    font-weight: 800;
+    color: white;
+}
+
+#secondry-num{
+    font-size: 0.8rem;
+    color: hsla(241, 100%, 89%, 0.5);
+}
+
+#great-txt{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+#score-txt{
+    color:hsl(0, 0%, 100%, 0.5);
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+#summary{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.react{
+    background-color: hsla(0, 100%, 67%, 0.08);
+    border-radius: 10px;
+
+}
+
+#react-txt{
+    color: hsl(0, 96%, 60%);
+}
+.bold{
+    font-weight: 800;
+    color: hsl(224, 30%, 27%);
+}
+.hunderd{
+    font-weight: 800;
+    color:hsla(224, 30%, 27%, 0.5) ;
+}
+
+.mem{
+    background-color: hsl(39, 100%, 56%, 0.08);
+    border-radius: 10px;
+
+}
+
+#memory-txt{
+    color: hsl(39, 100%, 56%);
+}
+
+.verbal{
+    background-color: hsl(166, 100%, 37%, 0.08);
+    border-radius: 10px;
+
+}
+
+#verb-txt{
+    color: hsl(166, 100%, 37%);
+}
+
+.visual{
+    background-color: hsl(234, 85%, 45%, 0.08);
+    border-radius: 10px;
+
+}
+
+#visual-txt{
+    color: hslhsl(234, 85%, 45%);
+}
+
+#btn{
+    background-color: hsl(224, 30%, 27%);
+    border-radius: 25px;
+    font-size: 1rem;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:0px 15px;
+}
+
+#btn:hover{
+    background: linear-gradient(180deg, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
+    cursor: pointer;
+}
