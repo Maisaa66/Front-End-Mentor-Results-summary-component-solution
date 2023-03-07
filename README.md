@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution]([https://your-solution-url.com](https://github.com/Maisaa66/Front-End-Mentor-Results-summary-component-solution))
+- Live Site URL: [Live site]([https://your-live-site-url.com](https://maisaa66.github.io/Front-End-Mentor-Results-summary-component-solution/))
 
 ## My process
 
@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@maisaa66](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@maisaa66](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@maisaa66]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Maisaa66))
+- Github - [@maisaa66]([https://www.twitter.com/yourusername](https://github.com/Maisaa66))
